@@ -1,0 +1,1760 @@
+state,year,stateyear,count
+Alabama,1980,Alabama1980,513
+Alabama,1981,Alabama1981,453
+Alabama,1982,Alabama1982,424
+Alabama,1983,Alabama1983,372
+Alabama,1984,Alabama1984,382
+Alabama,1985,Alabama1985,397
+Alabama,1986,Alabama1986,407
+Alabama,1987,Alabama1987,336
+Alabama,1988,Alabama1988,389
+Alabama,1989,Alabama1989,416
+Alabama,1990,Alabama1990,463
+Alabama,1991,Alabama1991,434
+Alabama,1992,Alabama1992,391
+Alabama,1993,Alabama1993,477
+Alabama,1994,Alabama1994,501
+Alabama,1995,Alabama1995,467
+Alabama,1996,Alabama1996,430
+Alabama,1997,Alabama1997,415
+Alabama,1998,Alabama1998,343
+Alabama,1999,Alabama1999,15
+Alabama,2000,Alabama2000,235
+Alabama,2001,Alabama2001,347
+Alabama,2002,Alabama2002,292
+Alabama,2003,Alabama2003,295
+Alabama,2004,Alabama2004,253
+Alabama,2005,Alabama2005,327
+Alabama,2006,Alabama2006,358
+Alabama,2007,Alabama2007,392
+Alabama,2008,Alabama2008,338
+Alabama,2009,Alabama2009,318
+Alabama,2010,Alabama2010,191
+Alabama,2012,Alabama2012,2
+Alabama,2013,Alabama2013,2
+Alabama,2014,Alabama2014,1
+Alaska,1980,Alaska1980,47
+Alaska,1981,Alaska1981,69
+Alaska,1982,Alaska1982,75
+Alaska,1983,Alaska1983,74
+Alaska,1984,Alaska1984,52
+Alaska,1985,Alaska1985,50
+Alaska,1986,Alaska1986,47
+Alaska,1987,Alaska1987,48
+Alaska,1988,Alaska1988,30
+Alaska,1989,Alaska1989,41
+Alaska,1990,Alaska1990,37
+Alaska,1991,Alaska1991,45
+Alaska,1992,Alaska1992,44
+Alaska,1993,Alaska1993,60
+Alaska,1994,Alaska1994,44
+Alaska,1995,Alaska1995,54
+Alaska,1996,Alaska1996,41
+Alaska,1997,Alaska1997,55
+Alaska,1998,Alaska1998,42
+Alaska,1999,Alaska1999,56
+Alaska,2000,Alaska2000,35
+Alaska,2001,Alaska2001,39
+Alaska,2002,Alaska2002,41
+Alaska,2003,Alaska2003,44
+Alaska,2004,Alaska2004,44
+Alaska,2005,Alaska2005,37
+Alaska,2006,Alaska2006,42
+Alaska,2007,Alaska2007,53
+Alaska,2008,Alaska2008,27
+Alaska,2009,Alaska2009,36
+Alaska,2010,Alaska2010,43
+Alaska,2011,Alaska2011,36
+Alaska,2012,Alaska2012,40
+Alaska,2013,Alaska2013,41
+Alaska,2014,Alaska2014,48
+Arizona,1980,Arizona1980,293
+Arizona,1981,Arizona1981,237
+Arizona,1982,Arizona1982,247
+Arizona,1983,Arizona1983,225
+Arizona,1984,Arizona1984,248
+Arizona,1985,Arizona1985,264
+Arizona,1986,Arizona1986,321
+Arizona,1987,Arizona1987,266
+Arizona,1988,Arizona1988,306
+Arizona,1989,Arizona1989,291
+Arizona,1990,Arizona1990,301
+Arizona,1991,Arizona1991,308
+Arizona,1992,Arizona1992,345
+Arizona,1993,Arizona1993,362
+Arizona,1994,Arizona1994,438
+Arizona,1995,Arizona1995,478
+Arizona,1996,Arizona1996,390
+Arizona,1997,Arizona1997,401
+Arizona,1998,Arizona1998,396
+Arizona,1999,Arizona1999,424
+Arizona,2000,Arizona2000,385
+Arizona,2001,Arizona2001,448
+Arizona,2002,Arizona2002,446
+Arizona,2003,Arizona2003,482
+Arizona,2004,Arizona2004,458
+Arizona,2005,Arizona2005,473
+Arizona,2006,Arizona2006,509
+Arizona,2007,Arizona2007,516
+Arizona,2008,Arizona2008,403
+Arizona,2009,Arizona2009,370
+Arizona,2010,Arizona2010,400
+Arizona,2011,Arizona2011,379
+Arizona,2012,Arizona2012,365
+Arizona,2013,Arizona2013,383
+Arizona,2014,Arizona2014,313
+Arkansas,1980,Arkansas1980,214
+Arkansas,1981,Arkansas1981,209
+Arkansas,1982,Arkansas1982,195
+Arkansas,1983,Arkansas1983,199
+Arkansas,1984,Arkansas1984,183
+Arkansas,1985,Arkansas1985,188
+Arkansas,1986,Arkansas1986,202
+Arkansas,1987,Arkansas1987,187
+Arkansas,1988,Arkansas1988,216
+Arkansas,1989,Arkansas1989,219
+Arkansas,1990,Arkansas1990,254
+Arkansas,1991,Arkansas1991,269
+Arkansas,1992,Arkansas1992,255
+Arkansas,1993,Arkansas1993,264
+Arkansas,1994,Arkansas1994,303
+Arkansas,1995,Arkansas1995,267
+Arkansas,1996,Arkansas1996,219
+Arkansas,1997,Arkansas1997,255
+Arkansas,1998,Arkansas1998,209
+Arkansas,1999,Arkansas1999,151
+Arkansas,2000,Arkansas2000,163
+Arkansas,2001,Arkansas2001,147
+Arkansas,2002,Arkansas2002,146
+Arkansas,2003,Arkansas2003,157
+Arkansas,2004,Arkansas2004,157
+Arkansas,2005,Arkansas2005,181
+Arkansas,2006,Arkansas2006,205
+Arkansas,2007,Arkansas2007,198
+Arkansas,2008,Arkansas2008,160
+Arkansas,2009,Arkansas2009,173
+Arkansas,2010,Arkansas2010,141
+Arkansas,2011,Arkansas2011,160
+Arkansas,2012,Arkansas2012,176
+Arkansas,2013,Arkansas2013,156
+Arkansas,2014,Arkansas2014,169
+California,1980,California1980,3590
+California,1981,California1981,2885
+California,1982,California1982,2976
+California,1983,California1983,2830
+California,1984,California1984,2888
+California,1985,California1985,2986
+California,1986,California1986,3260
+California,1987,California1987,3166
+California,1988,California1988,3135
+California,1989,California1989,3412
+California,1990,California1990,3862
+California,1991,California1991,4146
+California,1992,California1992,4195
+California,1993,California1993,4369
+California,1994,California1994,3962
+California,1995,California1995,3760
+California,1996,California1996,3101
+California,1997,California1997,2773
+California,1998,California1998,2353
+California,1999,California1999,2132
+California,2000,California2000,2219
+California,2001,California2001,2357
+California,2002,California2002,2549
+California,2003,California2003,2584
+California,2004,California2004,2566
+California,2005,California2005,2651
+California,2006,California2006,2649
+California,2007,California2007,2425
+California,2008,California2008,2142
+California,2009,California2009,2132
+California,2010,California2010,1948
+California,2011,California2011,1931
+California,2012,California2012,2047
+California,2013,California2013,1930
+California,2014,California2014,1872
+Colorado,1980,Colorado1980,198
+Colorado,1981,Colorado1981,230
+Colorado,1982,Colorado1982,193
+Colorado,1983,Colorado1983,214
+Colorado,1984,Colorado1984,192
+Colorado,1985,Colorado1985,204
+Colorado,1986,Colorado1986,247
+Colorado,1987,Colorado1987,211
+Colorado,1988,Colorado1988,206
+Colorado,1989,Colorado1989,166
+Colorado,1990,Colorado1990,166
+Colorado,1991,Colorado1991,213
+Colorado,1992,Colorado1992,232
+Colorado,1993,Colorado1993,221
+Colorado,1994,Colorado1994,187
+Colorado,1995,Colorado1995,219
+Colorado,1996,Colorado1996,182
+Colorado,1997,Colorado1997,175
+Colorado,1998,Colorado1998,195
+Colorado,1999,Colorado1999,201
+Colorado,2000,Colorado2000,134
+Colorado,2001,Colorado2001,154
+Colorado,2002,Colorado2002,181
+Colorado,2003,Colorado2003,190
+Colorado,2004,Colorado2004,216
+Colorado,2005,Colorado2005,177
+Colorado,2006,Colorado2006,176
+Colorado,2007,Colorado2007,161
+Colorado,2008,Colorado2008,152
+Colorado,2009,Colorado2009,165
+Colorado,2010,Colorado2010,145
+Colorado,2011,Colorado2011,167
+Colorado,2012,Colorado2012,172
+Colorado,2013,Colorado2013,186
+Colorado,2014,Colorado2014,165
+Connecticut,1980,Connecticut1980,158
+Connecticut,1981,Connecticut1981,155
+Connecticut,1982,Connecticut1982,164
+Connecticut,1983,Connecticut1983,130
+Connecticut,1984,Connecticut1984,116
+Connecticut,1985,Connecticut1985,124
+Connecticut,1986,Connecticut1986,148
+Connecticut,1987,Connecticut1987,162
+Connecticut,1988,Connecticut1988,181
+Connecticut,1989,Connecticut1989,197
+Connecticut,1990,Connecticut1990,177
+Connecticut,1991,Connecticut1991,172
+Connecticut,1992,Connecticut1992,181
+Connecticut,1993,Connecticut1993,222
+Connecticut,1994,Connecticut1994,220
+Connecticut,1995,Connecticut1995,156
+Connecticut,1996,Connecticut1996,166
+Connecticut,1997,Connecticut1997,132
+Connecticut,1998,Connecticut1998,144
+Connecticut,1999,Connecticut1999,117
+Connecticut,2000,Connecticut2000,100
+Connecticut,2001,Connecticut2001,112
+Connecticut,2002,Connecticut2002,86
+Connecticut,2003,Connecticut2003,110
+Connecticut,2004,Connecticut2004,103
+Connecticut,2005,Connecticut2005,111
+Connecticut,2006,Connecticut2006,113
+Connecticut,2007,Connecticut2007,109
+Connecticut,2008,Connecticut2008,132
+Connecticut,2009,Connecticut2009,106
+Connecticut,2010,Connecticut2010,134
+Connecticut,2011,Connecticut2011,130
+Connecticut,2012,Connecticut2012,145
+Connecticut,2013,Connecticut2013,93
+Connecticut,2014,Connecticut2014,90
+Delaware,1980,Delaware1980,44
+Delaware,1981,Delaware1981,41
+Delaware,1982,Delaware1982,36
+Delaware,1983,Delaware1983,27
+Delaware,1984,Delaware1984,24
+Delaware,1985,Delaware1985,32
+Delaware,1986,Delaware1986,32
+Delaware,1987,Delaware1987,32
+Delaware,1988,Delaware1988,34
+Delaware,1989,Delaware1989,33
+Delaware,1990,Delaware1990,33
+Delaware,1991,Delaware1991,39
+Delaware,1992,Delaware1992,20
+Delaware,1993,Delaware1993,22
+Delaware,1994,Delaware1994,14
+Delaware,1995,Delaware1995,9
+Delaware,1996,Delaware1996,33
+Delaware,1997,Delaware1997,16
+Delaware,1998,Delaware1998,24
+Delaware,1999,Delaware1999,25
+Delaware,2000,Delaware2000,27
+Delaware,2001,Delaware2001,29
+Delaware,2002,Delaware2002,30
+Delaware,2003,Delaware2003,21
+Delaware,2004,Delaware2004,28
+Delaware,2005,Delaware2005,41
+Delaware,2006,Delaware2006,42
+Delaware,2007,Delaware2007,39
+Delaware,2008,Delaware2008,57
+Delaware,2009,Delaware2009,44
+Delaware,2010,Delaware2010,52
+Delaware,2011,Delaware2011,48
+Delaware,2012,Delaware2012,57
+Delaware,2013,Delaware2013,41
+Delaware,2014,Delaware2014,53
+District of Columbia,1980,District of Columbia1980,180
+District of Columbia,1981,District of Columbia1981,232
+District of Columbia,1982,District of Columbia1982,204
+District of Columbia,1983,District of Columbia1983,188
+District of Columbia,1984,District of Columbia1984,175
+District of Columbia,1985,District of Columbia1985,149
+District of Columbia,1986,District of Columbia1986,154
+District of Columbia,1987,District of Columbia1987,225
+District of Columbia,1988,District of Columbia1988,375
+District of Columbia,1989,District of Columbia1989,439
+District of Columbia,1990,District of Columbia1990,481
+District of Columbia,1991,District of Columbia1991,489
+District of Columbia,1992,District of Columbia1992,450
+District of Columbia,1993,District of Columbia1993,423
+District of Columbia,1994,District of Columbia1994,417
+District of Columbia,1995,District of Columbia1995,377
+District of Columbia,1997,District of Columbia1997,309
+District of Columbia,2001,District of Columbia2001,1
+District of Columbia,2002,District of Columbia2002,252
+District of Columbia,2003,District of Columbia2003,243
+District of Columbia,2004,District of Columbia2004,189
+District of Columbia,2005,District of Columbia2005,187
+District of Columbia,2006,District of Columbia2006,166
+District of Columbia,2007,District of Columbia2007,174
+District of Columbia,2009,District of Columbia2009,157
+District of Columbia,2010,District of Columbia2010,134
+District of Columbia,2011,District of Columbia2011,116
+District of Columbia,2013,District of Columbia2013,115
+District of Columbia,2014,District of Columbia2014,114
+Florida,1980,Florida1980,1508
+Florida,1981,Florida1981,1586
+Florida,1982,Florida1982,1482
+Florida,1983,Florida1983,1262
+Florida,1984,Florida1984,1319
+Florida,1985,Florida1985,1308
+Florida,1986,Florida1986,1427
+Florida,1987,Florida1987,1410
+Florida,1991,Florida1991,1
+Florida,1992,Florida1992,1257
+Florida,1993,Florida1993,1329
+Florida,1994,Florida1994,1278
+Florida,1995,Florida1995,1114
+Florida,1996,Florida1996,1426
+Florida,1997,Florida1997,1068
+Florida,1998,Florida1998,1086
+Florida,1999,Florida1999,916
+Florida,2000,Florida2000,815
+Florida,2001,Florida2001,927
+Florida,2002,Florida2002,960
+Florida,2003,Florida2003,976
+Florida,2004,Florida2004,1011
+Florida,2005,Florida2005,960
+Florida,2006,Florida2006,1210
+Florida,2007,Florida2007,1349
+Florida,2008,Florida2008,1296
+Florida,2009,Florida2009,1162
+Florida,2010,Florida2010,1130
+Florida,2011,Florida2011,1136
+Florida,2012,Florida2012,1170
+Florida,2013,Florida2013,1129
+Florida,2014,Florida2014,1156
+Georgia,1980,Georgia1980,475
+Georgia,1981,Georgia1981,491
+Georgia,1982,Georgia1982,574
+Georgia,1983,Georgia1983,424
+Georgia,1984,Georgia1984,511
+Georgia,1985,Georgia1985,557
+Georgia,1986,Georgia1986,652
+Georgia,1987,Georgia1987,593
+Georgia,1988,Georgia1988,731
+Georgia,1989,Georgia1989,805
+Georgia,1990,Georgia1990,737
+Georgia,1991,Georgia1991,733
+Georgia,1992,Georgia1992,681
+Georgia,1993,Georgia1993,764
+Georgia,1994,Georgia1994,699
+Georgia,1995,Georgia1995,660
+Georgia,1996,Georgia1996,644
+Georgia,1997,Georgia1997,523
+Georgia,1998,Georgia1998,531
+Georgia,1999,Georgia1999,527
+Georgia,2000,Georgia2000,508
+Georgia,2001,Georgia2001,575
+Georgia,2002,Georgia2002,603
+Georgia,2003,Georgia2003,643
+Georgia,2004,Georgia2004,549
+Georgia,2005,Georgia2005,532
+Georgia,2006,Georgia2006,586
+Georgia,2007,Georgia2007,696
+Georgia,2008,Georgia2008,619
+Georgia,2009,Georgia2009,584
+Georgia,2010,Georgia2010,565
+Georgia,2011,Georgia2011,557
+Georgia,2012,Georgia2012,584
+Georgia,2013,Georgia2013,567
+Georgia,2014,Georgia2014,608
+Hawaii,1980,Hawaii1980,84
+Hawaii,1981,Hawaii1981,46
+Hawaii,1982,Hawaii1982,33
+Hawaii,1983,Hawaii1983,57
+Hawaii,1984,Hawaii1984,34
+Hawaii,1985,Hawaii1985,43
+Hawaii,1986,Hawaii1986,52
+Hawaii,1987,Hawaii1987,53
+Hawaii,1988,Hawaii1988,47
+Hawaii,1989,Hawaii1989,51
+Hawaii,1990,Hawaii1990,45
+Hawaii,1991,Hawaii1991,46
+Hawaii,1992,Hawaii1992,43
+Hawaii,1993,Hawaii1993,44
+Hawaii,1994,Hawaii1994,53
+Hawaii,1995,Hawaii1995,58
+Hawaii,1996,Hawaii1996,41
+Hawaii,1997,Hawaii1997,48
+Hawaii,1998,Hawaii1998,27
+Hawaii,1999,Hawaii1999,43
+Hawaii,2000,Hawaii2000,35
+Hawaii,2001,Hawaii2001,36
+Hawaii,2002,Hawaii2002,25
+Hawaii,2003,Hawaii2003,23
+Hawaii,2004,Hawaii2004,34
+Hawaii,2005,Hawaii2005,25
+Hawaii,2006,Hawaii2006,23
+Hawaii,2007,Hawaii2007,26
+Hawaii,2008,Hawaii2008,26
+Hawaii,2009,Hawaii2009,24
+Hawaii,2010,Hawaii2010,27
+Hawaii,2011,Hawaii2011,24
+Hawaii,2012,Hawaii2012,23
+Hawaii,2013,Hawaii2013,24
+Hawaii,2014,Hawaii2014,15
+Idaho,1980,Idaho1980,30
+Idaho,1981,Idaho1981,45
+Idaho,1982,Idaho1982,25
+Idaho,1983,Idaho1983,36
+Idaho,1984,Idaho1984,37
+Idaho,1985,Idaho1985,24
+Idaho,1986,Idaho1986,32
+Idaho,1987,Idaho1987,35
+Idaho,1988,Idaho1988,35
+Idaho,1989,Idaho1989,28
+Idaho,1990,Idaho1990,34
+Idaho,1991,Idaho1991,17
+Idaho,1992,Idaho1992,38
+Idaho,1993,Idaho1993,32
+Idaho,1994,Idaho1994,40
+Idaho,1995,Idaho1995,48
+Idaho,1996,Idaho1996,50
+Idaho,1997,Idaho1997,43
+Idaho,1998,Idaho1998,36
+Idaho,1999,Idaho1999,26
+Idaho,2000,Idaho2000,17
+Idaho,2001,Idaho2001,33
+Idaho,2002,Idaho2002,36
+Idaho,2003,Idaho2003,28
+Idaho,2004,Idaho2004,32
+Idaho,2005,Idaho2005,42
+Idaho,2006,Idaho2006,33
+Idaho,2007,Idaho2007,51
+Idaho,2008,Idaho2008,23
+Idaho,2009,Idaho2009,22
+Idaho,2010,Idaho2010,22
+Idaho,2011,Idaho2011,31
+Idaho,2012,Idaho2012,29
+Idaho,2013,Idaho2013,30
+Idaho,2014,Idaho2014,30
+Illinois,1980,Illinois1980,1323
+Illinois,1981,Illinois1981,1221
+Illinois,1982,Illinois1982,1108
+Illinois,1983,Illinois1983,1128
+Illinois,1984,Illinois1984,254
+Illinois,1985,Illinois1985,227
+Illinois,1986,Illinois1986,850
+Illinois,1987,Illinois1987,343
+Illinois,1988,Illinois1988,1000
+Illinois,1989,Illinois1989,1086
+Illinois,1990,Illinois1990,773
+Illinois,1991,Illinois1991,1289
+Illinois,1992,Illinois1992,1262
+Illinois,1993,Illinois1993,1013
+Illinois,1994,Illinois1994,1223
+Illinois,1995,Illinois1995,821
+Illinois,1996,Illinois1996,800
+Illinois,1997,Illinois1997,763
+Illinois,1998,Illinois1998,738
+Illinois,1999,Illinois1999,665
+Illinois,2000,Illinois2000,647
+Illinois,2001,Illinois2001,687
+Illinois,2002,Illinois2002,668
+Illinois,2003,Illinois2003,624
+Illinois,2004,Illinois2004,472
+Illinois,2005,Illinois2005,468
+Illinois,2006,Illinois2006,507
+Illinois,2007,Illinois2007,486
+Illinois,2008,Illinois2008,530
+Illinois,2009,Illinois2009,500
+Illinois,2010,Illinois2010,472
+Illinois,2011,Illinois2011,486
+Illinois,2012,Illinois2012,528
+Illinois,2013,Illinois2013,453
+Illinois,2014,Illinois2014,456
+Indiana,1980,Indiana1980,409
+Indiana,1981,Indiana1981,357
+Indiana,1982,Indiana1982,336
+Indiana,1983,Indiana1983,269
+Indiana,1984,Indiana1984,281
+Indiana,1985,Indiana1985,287
+Indiana,1986,Indiana1986,268
+Indiana,1987,Indiana1987,222
+Indiana,1988,Indiana1988,315
+Indiana,1989,Indiana1989,271
+Indiana,1990,Indiana1990,264
+Indiana,1991,Indiana1991,311
+Indiana,1992,Indiana1992,369
+Indiana,1993,Indiana1993,368
+Indiana,1994,Indiana1994,395
+Indiana,1995,Indiana1995,380
+Indiana,1996,Indiana1996,311
+Indiana,1997,Indiana1997,394
+Indiana,1998,Indiana1998,408
+Indiana,1999,Indiana1999,335
+Indiana,2000,Indiana2000,308
+Indiana,2001,Indiana2001,381
+Indiana,2002,Indiana2002,335
+Indiana,2003,Indiana2003,330
+Indiana,2004,Indiana2004,308
+Indiana,2005,Indiana2005,347
+Indiana,2006,Indiana2006,352
+Indiana,2007,Indiana2007,346
+Indiana,2008,Indiana2008,308
+Indiana,2009,Indiana2009,306
+Indiana,2010,Indiana2010,291
+Indiana,2011,Indiana2011,307
+Indiana,2012,Indiana2012,307
+Indiana,2013,Indiana2013,350
+Indiana,2014,Indiana2014,337
+Iowa,1980,Iowa1980,63
+Iowa,1981,Iowa1981,79
+Iowa,1982,Iowa1982,65
+Iowa,1983,Iowa1983,70
+Iowa,1984,Iowa1984,56
+Iowa,1985,Iowa1985,57
+Iowa,1986,Iowa1986,52
+Iowa,1987,Iowa1987,31
+Iowa,1988,Iowa1988,48
+Iowa,1989,Iowa1989,57
+Iowa,1990,Iowa1990,52
+Iowa,1992,Iowa1992,24
+Iowa,1993,Iowa1993,35
+Iowa,1994,Iowa1994,48
+Iowa,1995,Iowa1995,56
+Iowa,1996,Iowa1996,58
+Iowa,1997,Iowa1997,43
+Iowa,1998,Iowa1998,49
+Iowa,1999,Iowa1999,52
+Iowa,2000,Iowa2000,52
+Iowa,2001,Iowa2001,53
+Iowa,2002,Iowa2002,49
+Iowa,2003,Iowa2003,51
+Iowa,2004,Iowa2004,47
+Iowa,2005,Iowa2005,42
+Iowa,2006,Iowa2006,54
+Iowa,2007,Iowa2007,43
+Iowa,2008,Iowa2008,77
+Iowa,2009,Iowa2009,44
+Iowa,2010,Iowa2010,39
+Iowa,2011,Iowa2011,47
+Iowa,2012,Iowa2012,51
+Iowa,2013,Iowa2013,42
+Iowa,2014,Iowa2014,63
+Kansas,1980,Kansas1980,163
+Kansas,1981,Kansas1981,165
+Kansas,1982,Kansas1982,144
+Kansas,1983,Kansas1983,146
+Kansas,1984,Kansas1984,96
+Kansas,1985,Kansas1985,128
+Kansas,1986,Kansas1986,103
+Kansas,1987,Kansas1987,106
+Kansas,1988,Kansas1988,38
+Kansas,1989,Kansas1989,81
+Kansas,1990,Kansas1990,98
+Kansas,1991,Kansas1991,156
+Kansas,1992,Kansas1992,162
+Kansas,1993,Kansas1993,30
+Kansas,2000,Kansas2000,49
+Kansas,2001,Kansas2001,80
+Kansas,2002,Kansas2002,75
+Kansas,2003,Kansas2003,93
+Kansas,2004,Kansas2004,75
+Kansas,2005,Kansas2005,100
+Kansas,2006,Kansas2006,129
+Kansas,2007,Kansas2007,106
+Kansas,2008,Kansas2008,110
+Kansas,2009,Kansas2009,127
+Kansas,2010,Kansas2010,107
+Kansas,2011,Kansas2011,117
+Kansas,2012,Kansas2012,90
+Kansas,2013,Kansas2013,118
+Kansas,2014,Kansas2014,93
+Kentucky,1980,Kentucky1980,389
+Kentucky,1981,Kentucky1981,266
+Kentucky,1982,Kentucky1982,286
+Kentucky,1983,Kentucky1983,269
+Kentucky,1984,Kentucky1984,243
+Kentucky,1985,Kentucky1985,261
+Kentucky,1986,Kentucky1986,251
+Kentucky,1987,Kentucky1987,93
+Kentucky,1989,Kentucky1989,167
+Kentucky,1990,Kentucky1990,248
+Kentucky,1991,Kentucky1991,250
+Kentucky,1992,Kentucky1992,218
+Kentucky,1993,Kentucky1993,240
+Kentucky,1994,Kentucky1994,86
+Kentucky,1995,Kentucky1995,260
+Kentucky,1996,Kentucky1996,224
+Kentucky,1997,Kentucky1997,221
+Kentucky,1998,Kentucky1998,124
+Kentucky,1999,Kentucky1999,84
+Kentucky,2000,Kentucky2000,73
+Kentucky,2001,Kentucky2001,81
+Kentucky,2002,Kentucky2002,87
+Kentucky,2003,Kentucky2003,82
+Kentucky,2004,Kentucky2004,219
+Kentucky,2005,Kentucky2005,180
+Kentucky,2006,Kentucky2006,159
+Kentucky,2007,Kentucky2007,209
+Kentucky,2008,Kentucky2008,191
+Kentucky,2009,Kentucky2009,190
+Kentucky,2010,Kentucky2010,189
+Kentucky,2011,Kentucky2011,161
+Kentucky,2012,Kentucky2012,211
+Kentucky,2013,Kentucky2013,174
+Kentucky,2014,Kentucky2014,168
+Louisiana,1980,Louisiana1980,549
+Louisiana,1981,Louisiana1981,650
+Louisiana,1982,Louisiana1982,670
+Louisiana,1983,Louisiana1983,580
+Louisiana,1984,Louisiana1984,521
+Louisiana,1985,Louisiana1985,453
+Louisiana,1986,Louisiana1986,529
+Louisiana,1987,Louisiana1987,382
+Louisiana,1988,Louisiana1988,452
+Louisiana,1989,Louisiana1989,586
+Louisiana,1990,Louisiana1990,611
+Louisiana,1991,Louisiana1991,332
+Louisiana,1992,Louisiana1992,690
+Louisiana,1993,Louisiana1993,800
+Louisiana,1994,Louisiana1994,865
+Louisiana,1995,Louisiana1995,750
+Louisiana,1996,Louisiana1996,737
+Louisiana,1997,Louisiana1997,675
+Louisiana,1998,Louisiana1998,567
+Louisiana,1999,Louisiana1999,482
+Louisiana,2000,Louisiana2000,558
+Louisiana,2001,Louisiana2001,511
+Louisiana,2002,Louisiana2002,577
+Louisiana,2003,Louisiana2003,601
+Louisiana,2004,Louisiana2004,586
+Louisiana,2005,Louisiana2005,433
+Louisiana,2006,Louisiana2006,516
+Louisiana,2007,Louisiana2007,607
+Louisiana,2008,Louisiana2008,396
+Louisiana,2009,Louisiana2009,520
+Louisiana,2010,Louisiana2010,493
+Louisiana,2011,Louisiana2011,509
+Louisiana,2012,Louisiana2012,511
+Louisiana,2013,Louisiana2013,478
+Louisiana,2014,Louisiana2014,452
+Maine,1980,Maine1980,36
+Maine,1981,Maine1981,36
+Maine,1982,Maine1982,25
+Maine,1983,Maine1983,29
+Maine,1984,Maine1984,21
+Maine,1985,Maine1985,29
+Maine,1986,Maine1986,24
+Maine,1987,Maine1987,33
+Maine,1988,Maine1988,36
+Maine,1989,Maine1989,46
+Maine,1990,Maine1990,18
+Maine,1993,Maine1993,7
+Maine,1994,Maine1994,32
+Maine,1995,Maine1995,26
+Maine,1996,Maine1996,26
+Maine,1997,Maine1997,22
+Maine,1998,Maine1998,27
+Maine,1999,Maine1999,26
+Maine,2000,Maine2000,15
+Maine,2001,Maine2001,21
+Maine,2002,Maine2002,16
+Maine,2003,Maine2003,16
+Maine,2004,Maine2004,18
+Maine,2005,Maine2005,20
+Maine,2006,Maine2006,26
+Maine,2007,Maine2007,26
+Maine,2008,Maine2008,31
+Maine,2009,Maine2009,27
+Maine,2010,Maine2010,27
+Maine,2011,Maine2011,35
+Maine,2012,Maine2012,33
+Maine,2013,Maine2013,30
+Maine,2014,Maine2014,29
+Maryland,1980,Maryland1980,432
+Maryland,1981,Maryland1981,452
+Maryland,1982,Maryland1982,452
+Maryland,1983,Maryland1983,386
+Maryland,1984,Maryland1984,375
+Maryland,1985,Maryland1985,360
+Maryland,1986,Maryland1986,406
+Maryland,1987,Maryland1987,372
+Maryland,1988,Maryland1988,459
+Maryland,1989,Maryland1989,558
+Maryland,1990,Maryland1990,578
+Maryland,1991,Maryland1991,585
+Maryland,1992,Maryland1992,623
+Maryland,1993,Maryland1993,662
+Maryland,1994,Maryland1994,616
+Maryland,1995,Maryland1995,622
+Maryland,1996,Maryland1996,598
+Maryland,1997,Maryland1997,522
+Maryland,1998,Maryland1998,528
+Maryland,1999,Maryland1999,442
+Maryland,2000,Maryland2000,462
+Maryland,2001,Maryland2001,485
+Maryland,2002,Maryland2002,546
+Maryland,2003,Maryland2003,542
+Maryland,2004,Maryland2004,539
+Maryland,2005,Maryland2005,576
+Maryland,2006,Maryland2006,571
+Maryland,2007,Maryland2007,581
+Maryland,2008,Maryland2008,493
+Maryland,2009,Maryland2009,469
+Maryland,2010,Maryland2010,445
+Maryland,2011,Maryland2011,429
+Maryland,2012,Maryland2012,403
+Maryland,2013,Maryland2013,406
+Maryland,2014,Maryland2014,337
+Massachusetts,1980,Massachusetts1980,223
+Massachusetts,1981,Massachusetts1981,203
+Massachusetts,1982,Massachusetts1982,217
+Massachusetts,1983,Massachusetts1983,197
+Massachusetts,1984,Massachusetts1984,196
+Massachusetts,1985,Massachusetts1985,188
+Massachusetts,1986,Massachusetts1986,163
+Massachusetts,1987,Massachusetts1987,145
+Massachusetts,1988,Massachusetts1988,154
+Massachusetts,1989,Massachusetts1989,172
+Massachusetts,1990,Massachusetts1990,186
+Massachusetts,1991,Massachusetts1991,214
+Massachusetts,1992,Massachusetts1992,180
+Massachusetts,1993,Massachusetts1993,210
+Massachusetts,1994,Massachusetts1994,205
+Massachusetts,1995,Massachusetts1995,213
+Massachusetts,1996,Massachusetts1996,161
+Massachusetts,1997,Massachusetts1997,126
+Massachusetts,1998,Massachusetts1998,123
+Massachusetts,1999,Massachusetts1999,119
+Massachusetts,2000,Massachusetts2000,119
+Massachusetts,2001,Massachusetts2001,151
+Massachusetts,2002,Massachusetts2002,171
+Massachusetts,2003,Massachusetts2003,143
+Massachusetts,2004,Massachusetts2004,172
+Massachusetts,2005,Massachusetts2005,178
+Massachusetts,2006,Massachusetts2006,188
+Massachusetts,2007,Massachusetts2007,187
+Massachusetts,2008,Massachusetts2008,166
+Massachusetts,2009,Massachusetts2009,173
+Massachusetts,2010,Massachusetts2010,219
+Massachusetts,2011,Massachusetts2011,184
+Massachusetts,2012,Massachusetts2012,122
+Massachusetts,2013,Massachusetts2013,136
+Massachusetts,2014,Massachusetts2014,132
+Michigan,1980,Michigan1980,973
+Michigan,1981,Michigan1981,906
+Michigan,1982,Michigan1982,889
+Michigan,1983,Michigan1983,902
+Michigan,1984,Michigan1984,899
+Michigan,1985,Michigan1985,1066
+Michigan,1986,Michigan1986,1067
+Michigan,1987,Michigan1987,1153
+Michigan,1988,Michigan1988,1037
+Michigan,1989,Michigan1989,1016
+Michigan,1990,Michigan1990,997
+Michigan,1991,Michigan1991,1028
+Michigan,1992,Michigan1992,985
+Michigan,1993,Michigan1993,976
+Michigan,1994,Michigan1994,946
+Michigan,1995,Michigan1995,834
+Michigan,1996,Michigan1996,720
+Michigan,1997,Michigan1997,746
+Michigan,1998,Michigan1998,727
+Michigan,1999,Michigan1999,737
+Michigan,2000,Michigan2000,694
+Michigan,2001,Michigan2001,674
+Michigan,2002,Michigan2002,694
+Michigan,2003,Michigan2003,636
+Michigan,2004,Michigan2004,663
+Michigan,2005,Michigan2005,650
+Michigan,2006,Michigan2006,734
+Michigan,2007,Michigan2007,674
+Michigan,2008,Michigan2008,553
+Michigan,2009,Michigan2009,646
+Michigan,2010,Michigan2010,606
+Michigan,2011,Michigan2011,668
+Michigan,2012,Michigan2012,731
+Michigan,2013,Michigan2013,645
+Michigan,2014,Michigan2014,576
+Minnesota,1980,Minnesota1980,112
+Minnesota,1981,Minnesota1981,87
+Minnesota,1982,Minnesota1982,99
+Minnesota,1983,Minnesota1983,68
+Minnesota,1984,Minnesota1984,76
+Minnesota,1985,Minnesota1985,90
+Minnesota,1986,Minnesota1986,101
+Minnesota,1987,Minnesota1987,109
+Minnesota,1988,Minnesota1988,121
+Minnesota,1989,Minnesota1989,108
+Minnesota,1990,Minnesota1990,65
+Minnesota,1991,Minnesota1991,116
+Minnesota,1992,Minnesota1992,136
+Minnesota,1993,Minnesota1993,140
+Minnesota,1994,Minnesota1994,144
+Minnesota,1995,Minnesota1995,180
+Minnesota,1996,Minnesota1996,162
+Minnesota,1997,Minnesota1997,127
+Minnesota,1998,Minnesota1998,117
+Minnesota,1999,Minnesota1999,131
+Minnesota,2000,Minnesota2000,113
+Minnesota,2001,Minnesota2001,120
+Minnesota,2002,Minnesota2002,116
+Minnesota,2003,Minnesota2003,126
+Minnesota,2004,Minnesota2004,121
+Minnesota,2005,Minnesota2005,120
+Minnesota,2006,Minnesota2006,124
+Minnesota,2007,Minnesota2007,111
+Minnesota,2008,Minnesota2008,106
+Minnesota,2009,Minnesota2009,89
+Minnesota,2010,Minnesota2010,105
+Minnesota,2011,Minnesota2011,82
+Minnesota,2012,Minnesota2012,116
+Minnesota,2013,Minnesota2013,127
+Minnesota,2014,Minnesota2014,110
+Mississippi,1980,Mississippi1980,218
+Mississippi,1981,Mississippi1981,246
+Mississippi,1982,Mississippi1982,232
+Mississippi,1983,Mississippi1983,198
+Mississippi,1984,Mississippi1984,165
+Mississippi,1985,Mississippi1985,180
+Mississippi,1986,Mississippi1986,170
+Mississippi,1987,Mississippi1987,178
+Mississippi,1988,Mississippi1988,152
+Mississippi,1989,Mississippi1989,169
+Mississippi,1990,Mississippi1990,178
+Mississippi,1991,Mississippi1991,219
+Mississippi,1992,Mississippi1992,209
+Mississippi,1993,Mississippi1993,234
+Mississippi,1994,Mississippi1994,232
+Mississippi,1995,Mississippi1995,201
+Mississippi,1996,Mississippi1996,190
+Mississippi,1997,Mississippi1997,193
+Mississippi,1998,Mississippi1998,185
+Mississippi,1999,Mississippi1999,151
+Mississippi,2000,Mississippi2000,174
+Mississippi,2001,Mississippi2001,193
+Mississippi,2002,Mississippi2002,194
+Mississippi,2003,Mississippi2003,191
+Mississippi,2004,Mississippi2004,181
+Mississippi,2005,Mississippi2005,164
+Mississippi,2006,Mississippi2006,180
+Mississippi,2007,Mississippi2007,154
+Mississippi,2008,Mississippi2008,185
+Mississippi,2009,Mississippi2009,162
+Mississippi,2010,Mississippi2010,174
+Mississippi,2011,Mississippi2011,195
+Mississippi,2012,Mississippi2012,179
+Mississippi,2013,Mississippi2013,147
+Mississippi,2014,Mississippi2014,173
+Missouri,1980,Missouri1980,531
+Missouri,1981,Missouri1981,511
+Missouri,1982,Missouri1982,465
+Missouri,1983,Missouri1983,388
+Missouri,1984,Missouri1984,344
+Missouri,1985,Missouri1985,387
+Missouri,1986,Missouri1986,447
+Missouri,1987,Missouri1987,395
+Missouri,1988,Missouri1988,394
+Missouri,1989,Missouri1989,413
+Missouri,1990,Missouri1990,438
+Missouri,1991,Missouri1991,523
+Missouri,1992,Missouri1992,519
+Missouri,1993,Missouri1993,560
+Missouri,1994,Missouri1994,554
+Missouri,1995,Missouri1995,455
+Missouri,1996,Missouri1996,407
+Missouri,1997,Missouri1997,402
+Missouri,1998,Missouri1998,387
+Missouri,1999,Missouri1999,341
+Missouri,2000,Missouri2000,343
+Missouri,2001,Missouri2001,396
+Missouri,2002,Missouri2002,352
+Missouri,2003,Missouri2003,323
+Missouri,2004,Missouri2004,377
+Missouri,2005,Missouri2005,425
+Missouri,2006,Missouri2006,356
+Missouri,2007,Missouri2007,401
+Missouri,2008,Missouri2008,457
+Missouri,2009,Missouri2009,422
+Missouri,2010,Missouri2010,450
+Missouri,2011,Missouri2011,402
+Missouri,2012,Missouri2012,423
+Missouri,2013,Missouri2013,405
+Missouri,2014,Missouri2014,439
+Montana,1980,Montana1980,29
+Montana,1981,Montana1981,23
+Montana,1982,Montana1982,1
+Montana,1983,Montana1983,23
+Montana,1984,Montana1984,32
+Montana,1985,Montana1985,30
+Montana,1986,Montana1986,2
+Montana,1988,Montana1988,19
+Montana,1989,Montana1989,22
+Montana,1990,Montana1990,1
+Montana,1991,Montana1991,18
+Montana,1992,Montana1992,20
+Montana,1995,Montana1995,19
+Montana,1997,Montana1997,16
+Montana,1998,Montana1998,11
+Montana,1999,Montana1999,11
+Montana,2000,Montana2000,12
+Montana,2001,Montana2001,22
+Montana,2002,Montana2002,13
+Montana,2003,Montana2003,22
+Montana,2004,Montana2004,29
+Montana,2005,Montana2005,23
+Montana,2006,Montana2006,21
+Montana,2007,Montana2007,15
+Montana,2008,Montana2008,28
+Montana,2009,Montana2009,28
+Montana,2010,Montana2010,23
+Montana,2011,Montana2011,19
+Montana,2012,Montana2012,23
+Montana,2013,Montana2013,16
+Montana,2014,Montana2014,30
+Nebraska,1980,Nebraska1980,58
+Nebraska,1981,Nebraska1981,57
+Nebraska,1982,Nebraska1982,35
+Nebraska,1983,Nebraska1983,44
+Nebraska,1984,Nebraska1984,54
+Nebraska,1985,Nebraska1985,46
+Nebraska,1986,Nebraska1986,55
+Nebraska,1987,Nebraska1987,25
+Nebraska,1988,Nebraska1988,58
+Nebraska,1989,Nebraska1989,40
+Nebraska,1990,Nebraska1990,42
+Nebraska,1991,Nebraska1991,56
+Nebraska,1992,Nebraska1992,44
+Nebraska,1993,Nebraska1993,31
+Nebraska,1994,Nebraska1994,19
+Nebraska,1995,Nebraska1995,21
+Nebraska,1996,Nebraska1996,21
+Nebraska,1997,Nebraska1997,22
+Nebraska,1998,Nebraska1998,25
+Nebraska,1999,Nebraska1999,26
+Nebraska,2000,Nebraska2000,29
+Nebraska,2001,Nebraska2001,19
+Nebraska,2002,Nebraska2002,23
+Nebraska,2003,Nebraska2003,21
+Nebraska,2004,Nebraska2004,30
+Nebraska,2005,Nebraska2005,15
+Nebraska,2006,Nebraska2006,17
+Nebraska,2007,Nebraska2007,23
+Nebraska,2008,Nebraska2008,22
+Nebraska,2009,Nebraska2009,47
+Nebraska,2010,Nebraska2010,58
+Nebraska,2011,Nebraska2011,71
+Nebraska,2012,Nebraska2012,56
+Nebraska,2013,Nebraska2013,64
+Nebraska,2014,Nebraska2014,57
+Nevada,1980,Nevada1980,154
+Nevada,1981,Nevada1981,159
+Nevada,1982,Nevada1982,130
+Nevada,1983,Nevada1983,118
+Nevada,1984,Nevada1984,97
+Nevada,1985,Nevada1985,101
+Nevada,1986,Nevada1986,110
+Nevada,1987,Nevada1987,82
+Nevada,1988,Nevada1988,104
+Nevada,1989,Nevada1989,98
+Nevada,1990,Nevada1990,105
+Nevada,1991,Nevada1991,139
+Nevada,1992,Nevada1992,136
+Nevada,1993,Nevada1993,137
+Nevada,1994,Nevada1994,176
+Nevada,1995,Nevada1995,174
+Nevada,1996,Nevada1996,227
+Nevada,1997,Nevada1997,196
+Nevada,1998,Nevada1998,184
+Nevada,1999,Nevada1999,174
+Nevada,2000,Nevada2000,135
+Nevada,2001,Nevada2001,197
+Nevada,2002,Nevada2002,191
+Nevada,2003,Nevada2003,202
+Nevada,2004,Nevada2004,187
+Nevada,2005,Nevada2005,225
+Nevada,2006,Nevada2006,242
+Nevada,2007,Nevada2007,208
+Nevada,2008,Nevada2008,163
+Nevada,2009,Nevada2009,183
+Nevada,2010,Nevada2010,175
+Nevada,2011,Nevada2011,155
+Nevada,2012,Nevada2012,136
+Nevada,2013,Nevada2013,168
+Nevada,2014,Nevada2014,185
+New Hampshire,1980,New Hampshire1980,24
+New Hampshire,1981,New Hampshire1981,28
+New Hampshire,1982,New Hampshire1982,21
+New Hampshire,1983,New Hampshire1983,19
+New Hampshire,1984,New Hampshire1984,12
+New Hampshire,1985,New Hampshire1985,18
+New Hampshire,1986,New Hampshire1986,24
+New Hampshire,1987,New Hampshire1987,34
+New Hampshire,1988,New Hampshire1988,29
+New Hampshire,1989,New Hampshire1989,36
+New Hampshire,1990,New Hampshire1990,21
+New Hampshire,1991,New Hampshire1991,37
+New Hampshire,1992,New Hampshire1992,19
+New Hampshire,1993,New Hampshire1993,21
+New Hampshire,1994,New Hampshire1994,16
+New Hampshire,1995,New Hampshire1995,17
+New Hampshire,1996,New Hampshire1996,21
+New Hampshire,1998,New Hampshire1998,16
+New Hampshire,1999,New Hampshire1999,20
+New Hampshire,2000,New Hampshire2000,15
+New Hampshire,2001,New Hampshire2001,19
+New Hampshire,2002,New Hampshire2002,14
+New Hampshire,2003,New Hampshire2003,11
+New Hampshire,2004,New Hampshire2004,14
+New Hampshire,2005,New Hampshire2005,18
+New Hampshire,2006,New Hampshire2006,12
+New Hampshire,2007,New Hampshire2007,11
+New Hampshire,2008,New Hampshire2008,13
+New Hampshire,2009,New Hampshire2009,11
+New Hampshire,2010,New Hampshire2010,13
+New Hampshire,2011,New Hampshire2011,17
+New Hampshire,2012,New Hampshire2012,15
+New Hampshire,2013,New Hampshire2013,23
+New Hampshire,2014,New Hampshire2014,16
+New Jersey,1980,New Jersey1980,534
+New Jersey,1981,New Jersey1981,567
+New Jersey,1982,New Jersey1982,497
+New Jersey,1983,New Jersey1983,415
+New Jersey,1984,New Jersey1984,399
+New Jersey,1985,New Jersey1985,419
+New Jersey,1986,New Jersey1986,407
+New Jersey,1987,New Jersey1987,365
+New Jersey,1988,New Jersey1988,434
+New Jersey,1989,New Jersey1989,406
+New Jersey,1990,New Jersey1990,443
+New Jersey,1991,New Jersey1991,421
+New Jersey,1992,New Jersey1992,417
+New Jersey,1993,New Jersey1993,433
+New Jersey,1994,New Jersey1994,414
+New Jersey,1995,New Jersey1995,423
+New Jersey,1996,New Jersey1996,352
+New Jersey,1997,New Jersey1997,358
+New Jersey,1998,New Jersey1998,334
+New Jersey,1999,New Jersey1999,296
+New Jersey,2000,New Jersey2000,298
+New Jersey,2001,New Jersey2001,355
+New Jersey,2002,New Jersey2002,349
+New Jersey,2003,New Jersey2003,421
+New Jersey,2004,New Jersey2004,418
+New Jersey,2005,New Jersey2005,434
+New Jersey,2006,New Jersey2006,447
+New Jersey,2007,New Jersey2007,390
+New Jersey,2008,New Jersey2008,378
+New Jersey,2009,New Jersey2009,334
+New Jersey,2010,New Jersey2010,392
+New Jersey,2011,New Jersey2011,398
+New Jersey,2012,New Jersey2012,405
+New Jersey,2013,New Jersey2013,420
+New Jersey,2014,New Jersey2014,359
+New Mexico,1980,New Mexico1980,141
+New Mexico,1981,New Mexico1981,4
+New Mexico,1982,New Mexico1982,115
+New Mexico,1983,New Mexico1983,81
+New Mexico,1984,New Mexico1984,79
+New Mexico,1985,New Mexico1985,138
+New Mexico,1986,New Mexico1986,145
+New Mexico,1987,New Mexico1987,131
+New Mexico,1988,New Mexico1988,134
+New Mexico,1989,New Mexico1989,108
+New Mexico,1990,New Mexico1990,96
+New Mexico,1991,New Mexico1991,115
+New Mexico,1992,New Mexico1992,101
+New Mexico,1993,New Mexico1993,102
+New Mexico,1994,New Mexico1994,115
+New Mexico,1995,New Mexico1995,120
+New Mexico,1996,New Mexico1996,144
+New Mexico,1997,New Mexico1997,114
+New Mexico,1998,New Mexico1998,157
+New Mexico,1999,New Mexico1999,147
+New Mexico,2000,New Mexico2000,126
+New Mexico,2001,New Mexico2001,98
+New Mexico,2002,New Mexico2002,149
+New Mexico,2003,New Mexico2003,113
+New Mexico,2004,New Mexico2004,158
+New Mexico,2005,New Mexico2005,139
+New Mexico,2006,New Mexico2006,111
+New Mexico,2007,New Mexico2007,164
+New Mexico,2008,New Mexico2008,138
+New Mexico,2009,New Mexico2009,156
+New Mexico,2010,New Mexico2010,142
+New Mexico,2011,New Mexico2011,132
+New Mexico,2012,New Mexico2012,112
+New Mexico,2013,New Mexico2013,119
+New Mexico,2014,New Mexico2014,128
+New York,1980,New York1980,2197
+New York,1981,New York1981,1818
+New York,1982,New York1982,1992
+New York,1983,New York1983,2086
+New York,1984,New York1984,1829
+New York,1985,New York1985,1562
+New York,1986,New York1986,1682
+New York,1987,New York1987,1881
+New York,1988,New York1988,2143
+New York,1989,New York1989,1963
+New York,1990,New York1990,2268
+New York,1991,New York1991,2411
+New York,1992,New York1992,2447
+New York,1993,New York1993,2511
+New York,1994,New York1994,2062
+New York,1995,New York1995,1601
+New York,1996,New York1996,1355
+New York,1997,New York1997,1113
+New York,1998,New York1998,931
+New York,1999,New York1999,925
+New York,2000,New York2000,956
+New York,2001,New York2001,949
+New York,2002,New York2002,903
+New York,2003,New York2003,917
+New York,2004,New York2004,902
+New York,2005,New York2005,894
+New York,2006,New York2006,944
+New York,2007,New York2007,800
+New York,2008,New York2008,838
+New York,2009,New York2009,781
+New York,2010,New York2010,863
+New York,2011,New York2011,769
+New York,2012,New York2012,682
+New York,2013,New York2013,651
+New York,2014,New York2014,642
+North Carolina,1980,North Carolina1980,628
+North Carolina,1981,North Carolina1981,541
+North Carolina,1982,North Carolina1982,563
+North Carolina,1983,North Carolina1983,521
+North Carolina,1984,North Carolina1984,495
+North Carolina,1985,North Carolina1985,527
+North Carolina,1986,North Carolina1986,519
+North Carolina,1987,North Carolina1987,523
+North Carolina,1988,North Carolina1988,507
+North Carolina,1989,North Carolina1989,589
+North Carolina,1990,North Carolina1990,704
+North Carolina,1991,North Carolina1991,779
+North Carolina,1992,North Carolina1992,728
+North Carolina,1993,North Carolina1993,796
+North Carolina,1994,North Carolina1994,785
+North Carolina,1995,North Carolina1995,714
+North Carolina,1996,North Carolina1996,638
+North Carolina,1997,North Carolina1997,647
+North Carolina,1998,North Carolina1998,633
+North Carolina,1999,North Carolina1999,575
+North Carolina,2000,North Carolina2000,570
+North Carolina,2001,North Carolina2001,543
+North Carolina,2002,North Carolina2002,572
+North Carolina,2003,North Carolina2003,521
+North Carolina,2004,North Carolina2004,503
+North Carolina,2005,North Carolina2005,593
+North Carolina,2006,North Carolina2006,560
+North Carolina,2007,North Carolina2007,575
+North Carolina,2008,North Carolina2008,587
+North Carolina,2009,North Carolina2009,506
+North Carolina,2010,North Carolina2010,468
+North Carolina,2011,North Carolina2011,507
+North Carolina,2012,North Carolina2012,503
+North Carolina,2013,North Carolina2013,477
+North Carolina,2014,North Carolina2014,493
+North Dakota,1980,North Dakota1980,9
+North Dakota,1981,North Dakota1981,15
+North Dakota,1982,North Dakota1982,6
+North Dakota,1983,North Dakota1983,15
+North Dakota,1984,North Dakota1984,13
+North Dakota,1985,North Dakota1985,7
+North Dakota,1986,North Dakota1986,7
+North Dakota,1987,North Dakota1987,10
+North Dakota,1988,North Dakota1988,13
+North Dakota,1989,North Dakota1989,3
+North Dakota,1990,North Dakota1990,5
+North Dakota,1991,North Dakota1991,4
+North Dakota,1992,North Dakota1992,12
+North Dakota,1993,North Dakota1993,11
+North Dakota,1994,North Dakota1994,1
+North Dakota,1995,North Dakota1995,5
+North Dakota,1996,North Dakota1996,11
+North Dakota,1997,North Dakota1997,7
+North Dakota,1998,North Dakota1998,7
+North Dakota,1999,North Dakota1999,7
+North Dakota,2000,North Dakota2000,4
+North Dakota,2001,North Dakota2001,9
+North Dakota,2002,North Dakota2002,5
+North Dakota,2003,North Dakota2003,8
+North Dakota,2004,North Dakota2004,8
+North Dakota,2005,North Dakota2005,11
+North Dakota,2006,North Dakota2006,7
+North Dakota,2007,North Dakota2007,13
+North Dakota,2008,North Dakota2008,3
+North Dakota,2009,North Dakota2009,9
+North Dakota,2010,North Dakota2010,9
+North Dakota,2011,North Dakota2011,14
+North Dakota,2012,North Dakota2012,14
+North Dakota,2013,North Dakota2013,11
+North Dakota,2014,North Dakota2014,15
+Ohio,1980,Ohio1980,879
+Ohio,1981,Ohio1981,797
+Ohio,1982,Ohio1982,689
+Ohio,1983,Ohio1983,589
+Ohio,1984,Ohio1984,543
+Ohio,1985,Ohio1985,540
+Ohio,1986,Ohio1986,546
+Ohio,1987,Ohio1987,605
+Ohio,1988,Ohio1988,559
+Ohio,1989,Ohio1989,632
+Ohio,1990,Ohio1990,634
+Ohio,1991,Ohio1991,738
+Ohio,1992,Ohio1992,686
+Ohio,1993,Ohio1993,631
+Ohio,1994,Ohio1994,623
+Ohio,1995,Ohio1995,553
+Ohio,1996,Ohio1996,496
+Ohio,1997,Ohio1997,380
+Ohio,1998,Ohio1998,377
+Ohio,1999,Ohio1999,372
+Ohio,2000,Ohio2000,372
+Ohio,2001,Ohio2001,452
+Ohio,2002,Ohio2002,504
+Ohio,2003,Ohio2003,497
+Ohio,2004,Ohio2004,495
+Ohio,2005,Ohio2005,565
+Ohio,2006,Ohio2006,526
+Ohio,2007,Ohio2007,505
+Ohio,2008,Ohio2008,469
+Ohio,2009,Ohio2009,520
+Ohio,2010,Ohio2010,481
+Ohio,2011,Ohio2011,499
+Ohio,2012,Ohio2012,475
+Ohio,2013,Ohio2013,474
+Ohio,2014,Ohio2014,455
+Oklahoma,1980,Oklahoma1980,320
+Oklahoma,1981,Oklahoma1981,316
+Oklahoma,1982,Oklahoma1982,378
+Oklahoma,1983,Oklahoma1983,272
+Oklahoma,1984,Oklahoma1984,264
+Oklahoma,1985,Oklahoma1985,283
+Oklahoma,1986,Oklahoma1986,285
+Oklahoma,1987,Oklahoma1987,268
+Oklahoma,1988,Oklahoma1988,265
+Oklahoma,1989,Oklahoma1989,240
+Oklahoma,1990,Oklahoma1990,272
+Oklahoma,1991,Oklahoma1991,246
+Oklahoma,1992,Oklahoma1992,221
+Oklahoma,1993,Oklahoma1993,301
+Oklahoma,1994,Oklahoma1994,259
+Oklahoma,1995,Oklahoma1995,401
+Oklahoma,1996,Oklahoma1996,235
+Oklahoma,1997,Oklahoma1997,249
+Oklahoma,1998,Oklahoma1998,215
+Oklahoma,1999,Oklahoma1999,254
+Oklahoma,2000,Oklahoma2000,202
+Oklahoma,2001,Oklahoma2001,215
+Oklahoma,2002,Oklahoma2002,186
+Oklahoma,2003,Oklahoma2003,232
+Oklahoma,2004,Oklahoma2004,205
+Oklahoma,2005,Oklahoma2005,201
+Oklahoma,2006,Oklahoma2006,223
+Oklahoma,2007,Oklahoma2007,253
+Oklahoma,2008,Oklahoma2008,212
+Oklahoma,2009,Oklahoma2009,246
+Oklahoma,2010,Oklahoma2010,209
+Oklahoma,2011,Oklahoma2011,227
+Oklahoma,2012,Oklahoma2012,239
+Oklahoma,2013,Oklahoma2013,216
+Oklahoma,2014,Oklahoma2014,199
+Oregon,1980,Oregon1980,141
+Oregon,1981,Oregon1981,118
+Oregon,1982,Oregon1982,143
+Oregon,1983,Oregon1983,113
+Oregon,1984,Oregon1984,147
+Oregon,1985,Oregon1985,133
+Oregon,1986,Oregon1986,184
+Oregon,1987,Oregon1987,166
+Oregon,1988,Oregon1988,161
+Oregon,1989,Oregon1989,148
+Oregon,1990,Oregon1990,125
+Oregon,1991,Oregon1991,163
+Oregon,1992,Oregon1992,163
+Oregon,1993,Oregon1993,154
+Oregon,1994,Oregon1994,178
+Oregon,1995,Oregon1995,146
+Oregon,1996,Oregon1996,139
+Oregon,1997,Oregon1997,113
+Oregon,1998,Oregon1998,140
+Oregon,1999,Oregon1999,95
+Oregon,2000,Oregon2000,71
+Oregon,2001,Oregon2001,102
+Oregon,2002,Oregon2002,76
+Oregon,2003,Oregon2003,78
+Oregon,2004,Oregon2004,105
+Oregon,2005,Oregon2005,97
+Oregon,2006,Oregon2006,107
+Oregon,2007,Oregon2007,82
+Oregon,2008,Oregon2008,80
+Oregon,2009,Oregon2009,98
+Oregon,2010,Oregon2010,93
+Oregon,2011,Oregon2011,92
+Oregon,2012,Oregon2012,97
+Oregon,2013,Oregon2013,85
+Oregon,2014,Oregon2014,84
+Pennsylvania,1980,Pennsylvania1980,844
+Pennsylvania,1981,Pennsylvania1981,759
+Pennsylvania,1982,Pennsylvania1982,704
+Pennsylvania,1983,Pennsylvania1983,613
+Pennsylvania,1984,Pennsylvania1984,561
+Pennsylvania,1985,Pennsylvania1985,581
+Pennsylvania,1986,Pennsylvania1986,560
+Pennsylvania,1987,Pennsylvania1987,524
+Pennsylvania,1988,Pennsylvania1988,572
+Pennsylvania,1989,Pennsylvania1989,745
+Pennsylvania,1990,Pennsylvania1990,784
+Pennsylvania,1991,Pennsylvania1991,733
+Pennsylvania,1992,Pennsylvania1992,772
+Pennsylvania,1993,Pennsylvania1993,834
+Pennsylvania,1994,Pennsylvania1994,734
+Pennsylvania,1995,Pennsylvania1995,725
+Pennsylvania,1996,Pennsylvania1996,703
+Pennsylvania,1997,Pennsylvania1997,739
+Pennsylvania,1998,Pennsylvania1998,628
+Pennsylvania,1999,Pennsylvania1999,596
+Pennsylvania,2000,Pennsylvania2000,604
+Pennsylvania,2001,Pennsylvania2001,657
+Pennsylvania,2002,Pennsylvania2002,625
+Pennsylvania,2003,Pennsylvania2003,661
+Pennsylvania,2004,Pennsylvania2004,696
+Pennsylvania,2005,Pennsylvania2005,785
+Pennsylvania,2006,Pennsylvania2006,790
+Pennsylvania,2007,Pennsylvania2007,794
+Pennsylvania,2008,Pennsylvania2008,705
+Pennsylvania,2009,Pennsylvania2009,741
+Pennsylvania,2010,Pennsylvania2010,699
+Pennsylvania,2011,Pennsylvania2011,689
+Pennsylvania,2012,Pennsylvania2012,766
+Pennsylvania,2013,Pennsylvania2013,667
+Pennsylvania,2014,Pennsylvania2014,646
+Rhode Island,1980,Rhode Island1980,43
+Rhode Island,1981,Rhode Island1981,42
+Rhode Island,1982,Rhode Island1982,36
+Rhode Island,1983,Rhode Island1983,32
+Rhode Island,1984,Rhode Island1984,32
+Rhode Island,1985,Rhode Island1985,36
+Rhode Island,1986,Rhode Island1986,34
+Rhode Island,1987,Rhode Island1987,41
+Rhode Island,1988,Rhode Island1988,41
+Rhode Island,1989,Rhode Island1989,51
+Rhode Island,1990,Rhode Island1990,48
+Rhode Island,1991,Rhode Island1991,38
+Rhode Island,1992,Rhode Island1992,37
+Rhode Island,1993,Rhode Island1993,41
+Rhode Island,1994,Rhode Island1994,44
+Rhode Island,1995,Rhode Island1995,32
+Rhode Island,1996,Rhode Island1996,25
+Rhode Island,1997,Rhode Island1997,27
+Rhode Island,1998,Rhode Island1998,25
+Rhode Island,1999,Rhode Island1999,36
+Rhode Island,2000,Rhode Island2000,45
+Rhode Island,2001,Rhode Island2001,40
+Rhode Island,2002,Rhode Island2002,41
+Rhode Island,2003,Rhode Island2003,25
+Rhode Island,2004,Rhode Island2004,30
+Rhode Island,2005,Rhode Island2005,34
+Rhode Island,2006,Rhode Island2006,28
+Rhode Island,2007,Rhode Island2007,19
+Rhode Island,2008,Rhode Island2008,31
+Rhode Island,2009,Rhode Island2009,32
+Rhode Island,2010,Rhode Island2010,30
+Rhode Island,2011,Rhode Island2011,20
+Rhode Island,2012,Rhode Island2012,37
+Rhode Island,2013,Rhode Island2013,31
+Rhode Island,2014,Rhode Island2014,27
+South Carolina,1980,South Carolina1980,367
+South Carolina,1981,South Carolina1981,336
+South Carolina,1982,South Carolina1982,368
+South Carolina,1983,South Carolina1983,333
+South Carolina,1984,South Carolina1984,319
+South Carolina,1985,South Carolina1985,323
+South Carolina,1986,South Carolina1986,322
+South Carolina,1987,South Carolina1987,326
+South Carolina,1988,South Carolina1988,345
+South Carolina,1989,South Carolina1989,336
+South Carolina,1990,South Carolina1990,422
+South Carolina,1991,South Carolina1991,382
+South Carolina,1992,South Carolina1992,371
+South Carolina,1993,South Carolina1993,392
+South Carolina,1994,South Carolina1994,364
+South Carolina,1995,South Carolina1995,301
+South Carolina,1996,South Carolina1996,346
+South Carolina,1997,South Carolina1997,324
+South Carolina,1998,South Carolina1998,310
+South Carolina,1999,South Carolina1999,278
+South Carolina,2000,South Carolina2000,288
+South Carolina,2001,South Carolina2001,333
+South Carolina,2002,South Carolina2002,311
+South Carolina,2003,South Carolina2003,308
+South Carolina,2004,South Carolina2004,293
+South Carolina,2005,South Carolina2005,321
+South Carolina,2006,South Carolina2006,373
+South Carolina,2007,South Carolina2007,369
+South Carolina,2008,South Carolina2008,307
+South Carolina,2009,South Carolina2009,315
+South Carolina,2010,South Carolina2010,278
+South Carolina,2011,South Carolina2011,334
+South Carolina,2012,South Carolina2012,349
+South Carolina,2013,South Carolina2013,318
+South Carolina,2014,South Carolina2014,336
+South Dakota,1980,South Dakota1980,5
+South Dakota,1981,South Dakota1981,10
+South Dakota,1982,South Dakota1982,16
+South Dakota,1983,South Dakota1983,11
+South Dakota,1984,South Dakota1984,10
+South Dakota,1985,South Dakota1985,9
+South Dakota,1986,South Dakota1986,18
+South Dakota,1987,South Dakota1987,11
+South Dakota,1988,South Dakota1988,13
+South Dakota,1989,South Dakota1989,8
+South Dakota,1990,South Dakota1990,14
+South Dakota,1991,South Dakota1991,12
+South Dakota,1992,South Dakota1992,6
+South Dakota,1993,South Dakota1993,21
+South Dakota,1994,South Dakota1994,9
+South Dakota,1995,South Dakota1995,13
+South Dakota,1996,South Dakota1996,6
+South Dakota,1997,South Dakota1997,5
+South Dakota,1998,South Dakota1998,6
+South Dakota,1999,South Dakota1999,14
+South Dakota,2000,South Dakota2000,8
+South Dakota,2001,South Dakota2001,10
+South Dakota,2002,South Dakota2002,12
+South Dakota,2003,South Dakota2003,11
+South Dakota,2004,South Dakota2004,16
+South Dakota,2005,South Dakota2005,15
+South Dakota,2006,South Dakota2006,11
+South Dakota,2007,South Dakota2007,15
+South Dakota,2008,South Dakota2008,24
+South Dakota,2009,South Dakota2009,18
+South Dakota,2010,South Dakota2010,17
+South Dakota,2011,South Dakota2011,19
+South Dakota,2012,South Dakota2012,16
+South Dakota,2013,South Dakota2013,13
+South Dakota,2014,South Dakota2014,20
+Tennessee,1980,Tennessee1980,497
+Tennessee,1981,Tennessee1981,426
+Tennessee,1982,Tennessee1982,418
+Tennessee,1983,Tennessee1983,393
+Tennessee,1984,Tennessee1984,343
+Tennessee,1985,Tennessee1985,387
+Tennessee,1986,Tennessee1986,454
+Tennessee,1987,Tennessee1987,404
+Tennessee,1988,Tennessee1988,407
+Tennessee,1989,Tennessee1989,371
+Tennessee,1990,Tennessee1990,433
+Tennessee,1991,Tennessee1991,401
+Tennessee,1992,Tennessee1992,468
+Tennessee,1993,Tennessee1993,468
+Tennessee,1994,Tennessee1994,449
+Tennessee,1995,Tennessee1995,473
+Tennessee,1996,Tennessee1996,423
+Tennessee,1997,Tennessee1997,439
+Tennessee,1998,Tennessee1998,436
+Tennessee,1999,Tennessee1999,411
+Tennessee,2000,Tennessee2000,435
+Tennessee,2001,Tennessee2001,444
+Tennessee,2002,Tennessee2002,457
+Tennessee,2003,Tennessee2003,426
+Tennessee,2004,Tennessee2004,382
+Tennessee,2005,Tennessee2005,463
+Tennessee,2006,Tennessee2006,444
+Tennessee,2007,Tennessee2007,445
+Tennessee,2008,Tennessee2008,412
+Tennessee,2009,Tennessee2009,486
+Tennessee,2010,Tennessee2010,397
+Tennessee,2011,Tennessee2011,421
+Tennessee,2012,Tennessee2012,440
+Tennessee,2013,Tennessee2013,363
+Tennessee,2014,Tennessee2014,414
+Texas,1980,Texas1980,2402
+Texas,1981,Texas1981,2293
+Texas,1982,Texas1982,1848
+Texas,1983,Texas1983,2352
+Texas,1984,Texas1984,2208
+Texas,1985,Texas1985,2248
+Texas,1986,Texas1986,2347
+Texas,1987,Texas1987,2039
+Texas,1988,Texas1988,2009
+Texas,1989,Texas1989,2142
+Texas,1990,Texas1990,2485
+Texas,1991,Texas1991,2768
+Texas,1992,Texas1992,2359
+Texas,1993,Texas1993,2271
+Texas,1994,Texas1994,2121
+Texas,1995,Texas1995,1733
+Texas,1996,Texas1996,1549
+Texas,1997,Texas1997,1428
+Texas,1998,Texas1998,1448
+Texas,1999,Texas1999,1268
+Texas,2000,Texas2000,1308
+Texas,2001,Texas2001,1387
+Texas,2002,Texas2002,1383
+Texas,2003,Texas2003,1510
+Texas,2004,Texas2004,1431
+Texas,2005,Texas2005,1480
+Texas,2006,Texas2006,1464
+Texas,2007,Texas2007,1533
+Texas,2008,Texas2008,1368
+Texas,2009,Texas2009,1470
+Texas,2010,Texas2010,1363
+Texas,2011,Texas2011,1217
+Texas,2012,Texas2012,1267
+Texas,2013,Texas2013,1272
+Texas,2014,Texas2014,1324
+Utah,1980,Utah1980,53
+Utah,1981,Utah1981,54
+Utah,1982,Utah1982,55
+Utah,1983,Utah1983,56
+Utah,1984,Utah1984,49
+Utah,1985,Utah1985,53
+Utah,1986,Utah1986,55
+Utah,1987,Utah1987,56
+Utah,1988,Utah1988,48
+Utah,1989,Utah1989,46
+Utah,1990,Utah1990,53
+Utah,1991,Utah1991,55
+Utah,1992,Utah1992,54
+Utah,1993,Utah1993,69
+Utah,1994,Utah1994,70
+Utah,1995,Utah1995,78
+Utah,1996,Utah1996,67
+Utah,1997,Utah1997,75
+Utah,1998,Utah1998,66
+Utah,1999,Utah1999,58
+Utah,2000,Utah2000,54
+Utah,2001,Utah2001,82
+Utah,2002,Utah2002,57
+Utah,2003,Utah2003,61
+Utah,2004,Utah2004,58
+Utah,2005,Utah2005,60
+Utah,2006,Utah2006,52
+Utah,2007,Utah2007,65
+Utah,2008,Utah2008,40
+Utah,2009,Utah2009,41
+Utah,2010,Utah2010,58
+Utah,2011,Utah2011,55
+Utah,2012,Utah2012,57
+Utah,2013,Utah2013,51
+Utah,2014,Utah2014,72
+Vermont,1980,Vermont1980,9
+Vermont,1981,Vermont1981,9
+Vermont,1982,Vermont1982,5
+Vermont,1983,Vermont1983,6
+Vermont,1984,Vermont1984,14
+Vermont,1985,Vermont1985,17
+Vermont,1986,Vermont1986,12
+Vermont,1987,Vermont1987,16
+Vermont,1988,Vermont1988,12
+Vermont,1989,Vermont1989,11
+Vermont,1990,Vermont1990,14
+Vermont,1991,Vermont1991,14
+Vermont,1992,Vermont1992,11
+Vermont,1993,Vermont1993,13
+Vermont,1994,Vermont1994,6
+Vermont,1995,Vermont1995,13
+Vermont,1996,Vermont1996,16
+Vermont,1997,Vermont1997,9
+Vermont,1998,Vermont1998,12
+Vermont,1999,Vermont1999,20
+Vermont,2000,Vermont2000,10
+Vermont,2001,Vermont2001,7
+Vermont,2002,Vermont2002,13
+Vermont,2003,Vermont2003,15
+Vermont,2004,Vermont2004,16
+Vermont,2005,Vermont2005,10
+Vermont,2006,Vermont2006,14
+Vermont,2007,Vermont2007,13
+Vermont,2008,Vermont2008,17
+Vermont,2009,Vermont2009,8
+Vermont,2010,Vermont2010,7
+Vermont,2011,Vermont2011,11
+Vermont,2012,Vermont2012,10
+Vermont,2013,Vermont2013,11
+Vermont,2014,Vermont2014,11
+Virginia,1980,Virginia1980,468
+Virginia,1981,Virginia1981,474
+Virginia,1982,Virginia1982,427
+Virginia,1983,Virginia1983,405
+Virginia,1984,Virginia1984,457
+Virginia,1985,Virginia1985,413
+Virginia,1986,Virginia1986,427
+Virginia,1987,Virginia1987,453
+Virginia,1988,Virginia1988,482
+Virginia,1989,Virginia1989,511
+Virginia,1990,Virginia1990,561
+Virginia,1991,Virginia1991,596
+Virginia,1992,Virginia1992,581
+Virginia,1993,Virginia1993,559
+Virginia,1994,Virginia1994,605
+Virginia,1995,Virginia1995,519
+Virginia,1996,Virginia1996,508
+Virginia,1997,Virginia1997,508
+Virginia,1998,Virginia1998,421
+Virginia,1999,Virginia1999,376
+Virginia,2000,Virginia2000,398
+Virginia,2001,Virginia2001,377
+Virginia,2002,Virginia2002,391
+Virginia,2003,Virginia2003,419
+Virginia,2004,Virginia2004,392
+Virginia,2005,Virginia2005,465
+Virginia,2006,Virginia2006,408
+Virginia,2007,Virginia2007,427
+Virginia,2008,Virginia2008,370
+Virginia,2009,Virginia2009,392
+Virginia,2010,Virginia2010,387
+Virginia,2011,Virginia2011,319
+Virginia,2012,Virginia2012,334
+Virginia,2013,Virginia2013,336
+Virginia,2014,Virginia2014,354
+Washington,1980,Washington1980,222
+Washington,1981,Washington1981,208
+Washington,1982,Washington1982,192
+Washington,1983,Washington1983,226
+Washington,1984,Washington1984,216
+Washington,1985,Washington1985,234
+Washington,1986,Washington1986,225
+Washington,1987,Washington1987,254
+Washington,1988,Washington1988,273
+Washington,1989,Washington1989,211
+Washington,1990,Washington1990,249
+Washington,1991,Washington1991,221
+Washington,1992,Washington1992,274
+Washington,1993,Washington1993,287
+Washington,1994,Washington1994,317
+Washington,1995,Washington1995,288
+Washington,1996,Washington1996,258
+Washington,1997,Washington1997,250
+Washington,1998,Washington1998,215
+Washington,1999,Washington1999,182
+Washington,2000,Washington2000,203
+Washington,2001,Washington2001,199
+Washington,2002,Washington2002,208
+Washington,2003,Washington2003,204
+Washington,2004,Washington2004,208
+Washington,2005,Washington2005,226
+Washington,2006,Washington2006,207
+Washington,2007,Washington2007,186
+Washington,2008,Washington2008,192
+Washington,2009,Washington2009,207
+Washington,2010,Washington2010,175
+Washington,2011,Washington2011,183
+Washington,2012,Washington2012,215
+Washington,2013,Washington2013,194
+Washington,2014,Washington2014,206
+West Virginia,1980,West Virginia1980,134
+West Virginia,1981,West Virginia1981,122
+West Virginia,1982,West Virginia1982,107
+West Virginia,1983,West Virginia1983,97
+West Virginia,1984,West Virginia1984,88
+West Virginia,1985,West Virginia1985,75
+West Virginia,1986,West Virginia1986,120
+West Virginia,1987,West Virginia1987,104
+West Virginia,1988,West Virginia1988,101
+West Virginia,1989,West Virginia1989,125
+West Virginia,1990,West Virginia1990,110
+West Virginia,1991,West Virginia1991,112
+West Virginia,1992,West Virginia1992,118
+West Virginia,1993,West Virginia1993,129
+West Virginia,1994,West Virginia1994,110
+West Virginia,1995,West Virginia1995,92
+West Virginia,1996,West Virginia1996,69
+West Virginia,1997,West Virginia1997,85
+West Virginia,1998,West Virginia1998,81
+West Virginia,1999,West Virginia1999,69
+West Virginia,2000,West Virginia2000,64
+West Virginia,2001,West Virginia2001,40
+West Virginia,2002,West Virginia2002,76
+West Virginia,2003,West Virginia2003,65
+West Virginia,2004,West Virginia2004,66
+West Virginia,2005,West Virginia2005,78
+West Virginia,2006,West Virginia2006,76
+West Virginia,2007,West Virginia2007,62
+West Virginia,2008,West Virginia2008,64
+West Virginia,2009,West Virginia2009,77
+West Virginia,2010,West Virginia2010,57
+West Virginia,2011,West Virginia2011,84
+West Virginia,2012,West Virginia2012,72
+West Virginia,2013,West Virginia2013,58
+West Virginia,2014,West Virginia2014,74
+Wisconsin,1980,Wisconsin1980,145
+Wisconsin,1981,Wisconsin1981,148
+Wisconsin,1982,Wisconsin1982,148
+Wisconsin,1983,Wisconsin1983,135
+Wisconsin,1984,Wisconsin1984,124
+Wisconsin,1985,Wisconsin1985,142
+Wisconsin,1986,Wisconsin1986,144
+Wisconsin,1987,Wisconsin1987,168
+Wisconsin,1988,Wisconsin1988,145
+Wisconsin,1989,Wisconsin1989,176
+Wisconsin,1990,Wisconsin1990,238
+Wisconsin,1991,Wisconsin1991,248
+Wisconsin,1992,Wisconsin1992,219
+Wisconsin,1993,Wisconsin1993,241
+Wisconsin,1994,Wisconsin1994,247
+Wisconsin,1995,Wisconsin1995,241
+Wisconsin,1996,Wisconsin1996,225
+Wisconsin,1997,Wisconsin1997,225
+Wisconsin,1999,Wisconsin1999,200
+Wisconsin,2000,Wisconsin2000,172
+Wisconsin,2001,Wisconsin2001,198
+Wisconsin,2002,Wisconsin2002,166
+Wisconsin,2003,Wisconsin2003,193
+Wisconsin,2004,Wisconsin2004,160
+Wisconsin,2005,Wisconsin2005,220
+Wisconsin,2006,Wisconsin2006,174
+Wisconsin,2007,Wisconsin2007,198
+Wisconsin,2008,Wisconsin2008,146
+Wisconsin,2009,Wisconsin2009,154
+Wisconsin,2010,Wisconsin2010,170
+Wisconsin,2011,Wisconsin2011,147
+Wisconsin,2012,Wisconsin2012,181
+Wisconsin,2013,Wisconsin2013,182
+Wisconsin,2014,Wisconsin2014,171
+Wyoming,1980,Wyoming1980,34
+Wyoming,1981,Wyoming1981,26
+Wyoming,1982,Wyoming1982,34
+Wyoming,1983,Wyoming1983,30
+Wyoming,1984,Wyoming1984,20
+Wyoming,1985,Wyoming1985,25
+Wyoming,1986,Wyoming1986,29
+Wyoming,1987,Wyoming1987,11
+Wyoming,1988,Wyoming1988,14
+Wyoming,1989,Wyoming1989,22
+Wyoming,1990,Wyoming1990,23
+Wyoming,1991,Wyoming1991,15
+Wyoming,1992,Wyoming1992,20
+Wyoming,1993,Wyoming1993,18
+Wyoming,1994,Wyoming1994,20
+Wyoming,1995,Wyoming1995,12
+Wyoming,1996,Wyoming1996,18
+Wyoming,1997,Wyoming1997,18
+Wyoming,1998,Wyoming1998,17
+Wyoming,1999,Wyoming1999,13
+Wyoming,2000,Wyoming2000,12
+Wyoming,2001,Wyoming2001,11
+Wyoming,2002,Wyoming2002,16
+Wyoming,2003,Wyoming2003,17
+Wyoming,2004,Wyoming2004,13
+Wyoming,2005,Wyoming2005,17
+Wyoming,2006,Wyoming2006,9
+Wyoming,2007,Wyoming2007,18
+Wyoming,2008,Wyoming2008,10
+Wyoming,2009,Wyoming2009,12
+Wyoming,2010,Wyoming2010,8
+Wyoming,2011,Wyoming2011,20
+Wyoming,2012,Wyoming2012,17
+Wyoming,2013,Wyoming2013,17
+Wyoming,2014,Wyoming2014,14
