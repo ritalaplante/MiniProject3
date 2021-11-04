@@ -1,0 +1,56 @@
+<head>
+    <meta charset="utf-8">
+    <title>Mini Project 3</title>
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+  
+    <link rel="stylesheet" href="style.css">
+  
+    <script src="https://d3js.org/d3.v7.min.js" charset="utf-8"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+    
+
+    <script src="main.js" defer type="module"></script>
+</head>
+  
+<body>
+          
+    <h2>
+      Homicide Reports in the U.S. from 1980 to 2014
+    </h2>
+    <h5>
+      Learn more about our project <a href="about.html" target="_blank">here</a>
+    </h5>
+    
+  
+    <div class = "row" id = "yearlabel">
+      <div class = "yearlabel"></div>
+    </div>
+   
+    <div class = "row" id = "slider">
+      <div class = "slider"></div>
+    </div>
+
+    <div class = "row" id = "charts">
+
+      <div class = "column column-50">
+        <div class = "mainchart">
+          <div id = map-tooltip></div>
+        </div>
+      </div>
+
+      <div class = "column-50">
+        <div class = "row" id = "chart1">
+          <div class = "areachart"></div>
+        </div>
+        <div class = "row">
+          <div class = "bargraph" id = "chart2"></div>
+        </div>
+      </div>
+
+    </div>
+  
+</body>
