@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+
+<html lang = "eng">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>About Mini Project 3</title>
+
+    <!-- Milligram stylesheets -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+    
+    <!-- Personal Stylesheet -->
+    <link rel="stylesheet" href="styleAbout.css">
+    
+</head>
+
+<body>
+
+    <!-- Page title -->
+    <div class = "container" id = "title">
+        <h1><b>Project Information and Description</b></h1>
+    </div>
+
+    <!-- Page Content -->
+    <div class = "container" id = "content">
+        <h2><b>Project Information</b></h2>
+        <h3><b>Motivations</b></h3> 
+        <p> 
+            After exploring various datasets and topics we decided to explore homicide trends in the United States between 1980 and 2014.
+            We chose this dataset because it had a wide range of variables of different types. The range of this dataset would allow us to 
+            create charts of different types. These charts include maps, bar graphs, and area charts. <br><br>
+            We wanted to use this data to highlight trends in each state and to identify which weapons were most commonly associated with 
+            homocidal deaths. 
+        </p>
+        <h3><b>Design Rationale for Visual Encoding Decisions and Interaction Techniques</b></h3>
+        <p>
+
+            Our interactive website includes the following visualizations and features:
+            <ul>
+                <li>
+                    Map: Allows users to analyze homicides per state per year.
+                </li>
+                <li>
+                    Area Chart: Allows users to identify homicide trends in a selected state. Users can compare how homicides rise and fall
+                    throughout the years.
+                </li>
+                <li>
+                    Bar Chart: Allows users to identify most common weapons used in homicides per state per year.
+                </li>
+                <li>
+                    Slider: Allows user to filter the map by year. 
+                </li>
+                <li>
+                    Interactive tooltip (map): Allows users to explore number of homicides commited in a certain state
+                    in the specified year
+                </li>
+            </ul>
+
+            When designing our final site we wanted to ensure that our visualizations allowed users to explore the data at both a 
+            broad level and a granular level. The slider allows users to filter the data and narrow their focus to a single period.
+            Interacting with the primary map chart allows users to examine big-picture trends as well as anual trends. For instance, the 
+            area chart allows users to view trends over the entire time period documented in our data while the bar chart allows the users 
+            to understand the nature of the homicides in more detail. The bar chart allows users to identify an additional layer to the 
+            data beyond simple counts. Additionally, colors encoded in the main chart allow users to easily identify which states have 
+            the highest homicidal incidence rates. 
+
+        </p>
+        <h3><b>Takeaways</b></h3>
+        <p>
+            Our visualization reveals three primary takeaways:
+            <ul>
+                <li>
+                    Homicidal trends vary widely by state
+                </li>
+                <li>
+                    Though weapons used differ per state and year, handguns are often the most commonly used weapon
+                </li>
+                <li>
+                    California, Texas, and New York consistently have the highest number of homicides. However, this is likely
+                    connected to population size. 
+                </li>
+            </ul>
+        </p>
+        <h2><b>Design and Development Process</b></h2>
+        <h3><b>Original Sketches</b></h3>
+        <p>
+            We used Tableau to preform preliminary data exploration. Below are some charts we considered in our original data 
+            exploration. 
+        </p><br>
+            <div class = "row">
+                <div class = "column">
+                    <img src="map.png" width="400" height="200" alt="map_pic"> 
+                </div>
+                <div class = "column">
+                    <img src="area.png" width="400" height="200" alt="area_pic"> 
+                </div>
+            </div>
+            <div class = "row">
+                <div class = "column">
+                    <img src="bar.png"  width="400" height="200" alt="bar_pic"> 
+                </div>
+                <div class = "column">
+                    <img src="bubble.png" width="400" height="200" alt="bubble_pic"> 
+                </div>
+            </div> 
+        <p>
+            The sketches helped us guide our ideas and most of the sketches we created were included in our final webpage. We decided
+            to use the bar chart over the bubble chart because we believed it identified more insightful information about the nature
+            of the homicides. For instance, understanding which weapons are most deadly and popular among those who commit homicides
+            could have policy implications moving forward. 
+        </p>
+        <h3><b>Challenges</b></h3>
+        <p>
+            Creating the map was challenging because the original data was not in a json file. Therefore we had to use an external 
+            json file to properly project the map and display the data in the final map chart that serves as the central focus of our
+            visualization
+        </p> 
+        <p>
+            Connecting and importing each javascript file proved to be a challenge. Since most of the page updates respond to a map 
+            click we ended up connecting most files and external functions to the primary map chart rather than the main javascript file.
+        </p> 
+        <p>
+            Aligning titles and formatting our page proved more challenging than expected. Working with multiple graphs and a limited 
+            amount of space encouraged us to think aobut the best way to align maps, labels, and axes in order to minimize clutter. 
+        </p>
+        <h3><b>Lessons Learned</b></h3>
+        <ul>
+            <li>
+                Practiced coordinating graphs and connecting multiple charts. We are sure these lessons will be helpful for the final
+                project.
+            </li>
+            <li>
+                Moving forward it is important to consider how to coordinate/organize files before designing charts and communicate
+                this organization with group. 
+            </li>
+            <li>
+                Practiced devising meaningful questions that help users recognize patters and answer questions.
+            </li>
+            <li>
+                Practiced web designing and planning skills. Used external technologies to create data sketches.
+            </li>
+        </ul>
+        <h3><b>Workload Distribution</b></h3>
+        <p>
+            Amy: Primary map, slider, and page styling <br>
+            Rita: Area chart, about page <br>
+            Kelly: Bar chart, additional page styling
+        </p>
+
+    </div>
+
+</body>
